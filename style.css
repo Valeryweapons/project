@@ -215,7 +215,7 @@ body.touch .arrow{
     flex: 1 1;
 }
 .start {
-    background-image: url(/img/image\ 1.png);
+    background-image: url(/image\ 1.png);
     max-width: 100%;
     object-fit: cover;
     object-position: center;
